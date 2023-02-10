@@ -2,36 +2,24 @@
   "data": [
     {
       "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
-      "name": "masterPortfolio",
-      "createdAt": "2020-03-06T16:26:54Z",
-      "url": "https://github.com/ashutosh1919/masterPortfolio",
-      "description": "🔥 The Complete Customizable Software Developer Portfolio Template which lets you showcase your work and provides each and every detail about you as Software Developer.",
+      "name": "Masters Portfolio",
+      "createdAt": "2022-09-27T16:26:54Z",
+      "url": "https://github.com/sgsshar5/Masters-Porrtfolio.git",
+      "description": "🔥 I have created AI player Connect 4 board game using Min Max & Min Max with alpha beta pruning algorithms.",
       "isFork": false,
       "languages": [
         {
-          "name": "HTML",
-          "iconifyClass": "logos-html-5"
-        },
-        {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
-        },
-        {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
-        },
-        {
-          "name": "Dockerfile",
-          "iconifyClass": "simple-icons:docker"
+          "name": "Python",
+          "iconifyClass": "logos-python"
         }
       ]
     },
     {
       "id": "R_kgDOG_vYHA",
-      "name": "explainable-cnn",
-      "createdAt": "2022-03-13T20:41:33Z",
-      "url": "https://github.com/ashutosh1919/explainable-cnn",
-      "description": "📦 PyTorch based visualization package for generating layer-wise explanations for CNNs.",
+      "name": "Reinforcement Learning",
+      "createdAt": "2021-02-13T20:41:33Z",
+      "url": "https://github.com/sgsshar5/Reinforcement-Learning.git",
+      "description": "📦 Deep reinforcement Learning model on a 4 Layered Neural Network and tested using OpenAI gym library.",
       "isFork": false,
       "languages": [
         {
@@ -42,36 +30,24 @@
     },
     {
       "id": "R_kgDOG0_8uQ",
-      "name": "react-awesome-shapes",
-      "createdAt": "2022-02-11T14:50:20Z",
-      "url": "https://github.com/ashutosh1919/react-awesome-shapes",
-      "description": "🌀 Insert Awesome Shapes into Your React Site with Ease.",
+      "name": "Social Network Analysis",
+      "createdAt": "2022-05-15T14:50:20Z",
+      "url": "https://github.com/sgsshar5/Networkx.git",
+      "description": "🌀 Social Network Analysis using Pandas Data frame and Netwokx in Python.",
       "isFork": false,
       "languages": [
         {
-          "name": "HTML",
-          "iconifyClass": "logos-html-5"
-        },
-        {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
-        },
-        {
-          "name": "Shell",
-          "iconifyClass": "simple-icons:shell"
-        },
-        {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
+          "name": "Python",
+          "iconifyClass": "logos-python"
         }
       ]
     },
     {
       "id": "R_kgDOGcPKSQ",
-      "name": "neuro-symbolic-sudoku-solver",
+      "name": "Deep Learning",
       "createdAt": "2021-11-26T17:56:07Z",
-      "url": "https://github.com/ashutosh1919/neuro-symbolic-sudoku-solver",
-      "description": "⚙️ Solving sudoku using Deep Reinforcement learning in combination with powerful symbolic representations.",
+      "url": "https://github.com/sgsshar5/Deep-Learning.git",
+      "description": "⚙️ I used the openAI gym library to import a simple game called “Lunar Lander” to train our deep neural network to play it successfully.",
       "isFork": false,
       "languages": [
         {
@@ -82,33 +58,29 @@
     },
     {
       "id": "MDEwOlJlcG9zaXRvcnkzMjcyMjI5Njk=",
-      "name": "react-awesome-loaders",
-      "createdAt": "2021-01-06T06:36:41Z",
-      "url": "https://github.com/ashutosh1919/react-awesome-loaders",
-      "description": "🚀  High quality, super responsive and completely customisable Loading Animations to insert into your website with single line of code.",
+      "name": "Principle Component Analysis",
+      "createdAt": "2022-07-06T06:36:41Z",
+      "url": "https://github.com/sgsshar5/PCA.git",
+      "description": "🚀  Performed multiple analysis operations using pandas data frame and performed principal componentanalysis on the open and close dataset of 500 companies for a span of 5 years.",
       "isFork": false,
       "languages": [
         {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
+          "name": "Python",
+          "iconifyClass": "logos-python"
         }
       ]
     },
     {
       "id": "MDEwOlJlcG9zaXRvcnkzMjU5NDM1MTE=",
-      "name": "react-liquidswipe",
-      "createdAt": "2021-01-01T08:31:51Z",
-      "url": "https://github.com/ashutosh1919/react-liquidswipe",
-      "description": "🚀 Smooth Liquid Swipe Animation to transition between different components.",
+      "name": "Multi Class Perceptron",
+      "createdAt": "2021-11-01T08:31:51Z",
+      "url": "https://github.com/sgsshar5/Multiclass-Perceptron.git",
+      "description": "🚀 Binary Class Perceptron with multiple usecase objectives with using only NumPy and Pandas in Python on Iris Dataset.",
       "isFork": false,
       "languages": [
         {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
-        },
-        {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
+          "name": "Python",
+          "iconifyClass": "logos-python"
         }
       ]
     }
